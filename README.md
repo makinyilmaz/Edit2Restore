@@ -1,5 +1,8 @@
 # Edit2Restore
 
+## LoRA Weights
+You may download [pre-trained lora adapters](https://drive.google.com/drive/folders/1htnXsBE7zGjkM8AO8bEeNHX0im22bU7a?usp=drive_link) and skip the training process.
+
 ## License
 This code is licensed under Apache 2.0.
 
