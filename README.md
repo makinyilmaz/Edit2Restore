@@ -2,8 +2,7 @@
 
 This repository contains the official implementation of the paper:
 
-**Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models
-**  
+**Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models**  
 by M. Akin Yilmaz, Ahmet Bilican, Burak Can Biner and A. Murat Tekalp
 
 [arXiv preprint](https://arxiv.org/abs/2601.03391)
