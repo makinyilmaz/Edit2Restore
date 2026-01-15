@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python /home/codeway/research/kontext_lora/all-in-one/train_lora_flux_kontext_multiple.py \
+python train_lora_flux_kontext_multiple.py \
   --pretrained_model_name_or_path=black-forest-labs/FLUX.1-Kontext-dev \
   --degradation_folders "train_data32/deraining" \
   --degradation_prompts "remove the rain from the image" \
