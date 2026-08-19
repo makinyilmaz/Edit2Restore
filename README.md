@@ -1,9 +1,9 @@
 # Edit2Restore
 
-This repository contains the official implementation of the paper:
+This repository contains the official implementation of the paper accepted by ECCV 2026 LoViF Workshop:
 
 **Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models**  
-by M. Akin Yilmaz, Ahmet Bilican, Burak Can Biner and A. Murat Tekalp
+by Mustafa Akın Yılmaz, Ahmet Bilican, Burak Can Biner and Ahmet Murat Tekalp
 
 [arXiv preprint](https://arxiv.org/abs/2601.03391)
 
