@@ -13,6 +13,9 @@ You may download [pre-trained lora adapters](https://drive.google.com/drive/u/1/
 ## Results
 You may directly access and download our [results](https://drive.google.com/drive/u/1/folders/1flVu7gFbCAKfMgmxyoThB89Nk2SDsVi7).
 
+## LoRA Fine-tuning
+You may also find the [training data](https://drive.google.com/drive/u/1/folders/1flVu7gFbCAKfMgmxyoThB89Nk2SDsVi7) used for LoRA fine-tuning to adapt and test the method on your own. Please check training script as well.
+
 ## License
 This code is licensed under Apache 2.0.
 
